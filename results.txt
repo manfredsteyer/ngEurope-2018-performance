@@ -1,0 +1,47 @@
+ Datentr„ger in Laufwerk C: ist Windows
+ Volumeseriennummer: 5C86-58B6
+
+ Verzeichnis von C:\Users\Manfred\Documents\Konferenzen\2017\ng-beers-bcn\sample\dist_prod_no-aot
+
+16.10.2017  19:40            17.134 0.7718dfc579979d04c212.chunk.js
+16.10.2017  19:40             1.472 inline.0a14dcc69ee7948c6073.bundle.js
+16.10.2017  19:40            24.658 main.6321b745aa928cc119b7.bundle.js
+16.10.2017  19:40            66.083 polyfills.1d840696e841b21f5d6a.bundle.js
+16.10.2017  19:40         1.093.261 vendor.8097f2b367f3a777510f.bundle.js
+               5 Datei(en),      1.202.608 Bytes
+               0 Verzeichnis(se), 104.922.308.608 Bytes frei
+ Datentr„ger in Laufwerk C: ist Windows
+ Volumeseriennummer: 5C86-58B6
+
+ Verzeichnis von C:\Users\Manfred\Documents\Konferenzen\2017\ng-beers-bcn\sample\dist_prod
+
+16.10.2017  19:41            59.723 0.addfe975ccfaa391781e.chunk.js
+16.10.2017  19:41             1.472 inline.ae77683c4a9316117fb7.bundle.js
+16.10.2017  19:41            32.738 main.262a76adbdad8de5c26c.bundle.js
+16.10.2017  19:41            66.083 polyfills.1d840696e841b21f5d6a.bundle.js
+16.10.2017  19:41           735.244 vendor.729e72141a29cfafa8de.bundle.js
+               5 Datei(en),        895.260 Bytes
+               0 Verzeichnis(se), 104.922.304.512 Bytes frei
+ Datentr„ger in Laufwerk C: ist Windows
+ Volumeseriennummer: 5C86-58B6
+
+ Verzeichnis von C:\Users\Manfred\Documents\Konferenzen\2017\ng-beers-bcn\sample\dist_prod_no-ws
+
+16.10.2017  19:43            59.723 0.addfe975ccfaa391781e.chunk.js
+16.10.2017  19:43             1.472 inline.34bf71734836a9822068.bundle.js
+16.10.2017  19:43            31.930 main.3ecac18886a82080bb0f.bundle.js
+16.10.2017  19:43            66.083 polyfills.1d840696e841b21f5d6a.bundle.js
+16.10.2017  19:43           735.244 vendor.729e72141a29cfafa8de.bundle.js
+               5 Datei(en),        894.452 Bytes
+               0 Verzeichnis(se), 104.922.304.512 Bytes frei
+ Datentr„ger in Laufwerk C: ist Windows
+ Volumeseriennummer: 5C86-58B6
+
+ Verzeichnis von C:\Users\Manfred\Documents\Konferenzen\2017\ng-beers-bcn\sample\dist_prod_no-ws_bo
+
+16.10.2017  19:44            58.930 0.6fe822e7c9f227a013cb.chunk.js
+16.10.2017  19:44             1.472 inline.c6abd06a6f98432136dc.bundle.js
+16.10.2017  19:44           728.726 main.983e79a112f5a0c04d01.bundle.js
+16.10.2017  19:44            65.937 polyfills.f3dcb063d961d347cd29.bundle.js
+               4 Datei(en),        855.065 Bytes
+               0 Verzeichnis(se), 104.922.304.512 Bytes frei
